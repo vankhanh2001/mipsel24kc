@@ -10,4 +10,4 @@
 -	Opkg install 1.ipk 2.ipk 3.ipk 4.ipk 5.ipk 6.ipk 7.ipk 8.ipk 9.ipk 10.ipk 11.ipk 12.ipk
 - Đợi chạy hết là thành công nhé hihi!
 
-- ---------Văn Khánh---------
+-                                 ---------Văn Khánh---------
